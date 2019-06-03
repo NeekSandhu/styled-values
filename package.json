@@ -1,0 +1,24 @@
+{
+  "name": "styled-values",
+  "version": "0.0.0",
+  "description": "css-in-js helper that returns first truthy css value from a given map",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeekSandhu/styled-values.git"
+  },
+  "keywords": [
+    "styled-components",
+    "css-in-js",
+    "classnames",
+    "props",
+    "properties"
+  ],
+  "author": "Neek Sandhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeekSandhu/styled-values/issues"
+  },
+  "homepage": "https://github.com/NeekSandhu/styled-values#readme"
+}
