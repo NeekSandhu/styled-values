@@ -1,6 +1,6 @@
 {
   "name": "styled-values",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "css-in-js helper that returns first truthy css value from a given map",
   "main": "index.js",
   "typings": "index.d.ts",
